@@ -165,7 +165,7 @@ if ($successCount -gt 0) {
         Write-Success "  $successCount commits pushed to GitHub!"
         Write-Success "  Your contribution graph is now greener!"
         Write-Host ""
-        Write-Info "Check your profile: https://github.com/somsu123"
+        Write-Info "Check your profile: https://github.com/Sneha00-das"
         Write-Host ""
     } else {
         Write-Error "Failed to push to GitHub"
